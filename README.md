@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pthemis5
-- 👀 I’m interested in ... learning
-- 🌱 I’m currently trying to learn ... 
-- 📫 How to reach me ...
+- 👀 Exoplanets-coding
+- 🌱 
+- 📫 pthemis5@gmail.com
 
 
